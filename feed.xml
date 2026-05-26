@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<channel>
+  <title>Ethan's Recsys Learning</title>
+  <description>Personal feed for English shadowing - recsys MLE talks + BQ Q&amp;A bundle</description>
+  <link>https://github.com/podcastethan/personal-feed</link>
+  <language>en-us</language>
+  <itunes:author>Ethan Bai</itunes:author>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:category text="Technology"/>
+  <itunes:image href="https://raw.githubusercontent.com/podcastethan/personal-feed/main/cover.jpg"/>
+  <image>
+    <url>https://raw.githubusercontent.com/podcastethan/personal-feed/main/cover.jpg</url>
+    <title>Ethan's Recsys Learning</title>
+    <link>https://github.com/podcastethan/personal-feed</link>
+  </image>
+
+  <item>
+    <title>BQ Q&A Shadowing - Why Company + Customer Obsession + Are Right A Lot (11 questions, 26 min)</title>
+    <description>11 BQ questions bundled for English shadowing. Each Q&A pair: interviewer voice (onyx) asks the question, 2s silent gap for self-prep, then nova voice answers Ethan's prepared story. Topics covered: Why Google YouTube Ranking, Why make a move, Customer Obsession (suggestion / X-but-really-Y / didn't meet expectation / above-and-beyond), Are Right A Lot (failure / disagree right / disagree wrong / incomplete data success / incomplete data failed). Total ~26 min.</description>
+    <pubDate>Tue, 26 May 2026 07:02:26 +0000</pubDate>
+    <enclosure url="https://raw.githubusercontent.com/podcastethan/personal-feed/main/bq-shadowing-why-co-ar.mp3" length="12469677" type="audio/mpeg"/>
+    <guid isPermaLink="false">bq-shadowing-bundle-001</guid>
+    <itunes:duration>25:58</itunes:duration>
+    <itunes:author>Ethan Bai (OpenAI TTS shadowing - onyx Q + nova A)</itunes:author>
+  </item>
+
+  <item>
+    <title>BQ NotebookLM Discussion - The Messy Human Logic Behind YouTube Ranking (~22 min)</title>
+    <description>NotebookLM Audio Overview: two AI hosts discussing Ethan's 11 BQ stories. Conversational podcast format, complements the TTS shadowing version.</description>
+    <pubDate>Tue, 26 May 2026 06:58:06 +0000</pubDate>
+    <enclosure url="https://raw.githubusercontent.com/podcastethan/personal-feed/main/bq-notebooklm-discussion.mp3" length="10517130" type="audio/mpeg"/>
+    <guid isPermaLink="false">bq-notebooklm-discussion-001</guid>
+    <itunes:duration>21:54</itunes:duration>
+    <itunes:author>NotebookLM (AI-generated)</itunes:author>
+  </item>
+
+  
+  <item>
+    <title>Netflix's Big Bet: One Model to Rule Recommendations</title>
+    <description>Yesu Feng (Netflix) on building a foundation model for personalization. AI Engineer World's Fair 2025. ~22 min. [Audio volume +30%]</description>
+    <pubDate>Fri, 22 May 2026 00:35:00 -0700</pubDate>
+    <enclosure url="https://raw.githubusercontent.com/podcastethan/personal-feed/main/yesu-feng-netflix.mp3" length="32353055" type="audio/mpeg"/>
+    <guid isPermaLink="false">yesu-feng-netflix-001</guid>
+    <itunes:duration>22:28</itunes:duration>
+    <itunes:author>Yesu Feng, Netflix</itunes:author>
+  </item>
+</channel>
+</rss>
