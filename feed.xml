@@ -3,18 +3,18 @@
 <channel>
   <title>Ethan's Recsys Learning</title>
   <description>Personal feed for English shadowing - recsys MLE talks + BQ Q&amp;A by topic</description>
-  <link>https://github.com/podcastethan/personal-feed</link>
+  <link>https://github.com/ohisee123/shadowing-feed</link>
   <language>en-us</language>
   <itunes:author>Ethan Bai</itunes:author>
   <itunes:explicit>false</itunes:explicit>
   <itunes:category text="Technology"/>
-  <itunes:image href="https://raw.githubusercontent.com/podcastethan/personal-feed/main/cover.jpg"/>
-  <image><url>https://raw.githubusercontent.com/podcastethan/personal-feed/main/cover.jpg</url><title>Ethan's Recsys Learning</title><link>https://github.com/podcastethan/personal-feed</link></image>
+  <itunes:image href="https://raw.githubusercontent.com/ohisee123/shadowing-feed/main/cover.jpg"/>
+  <image><url>https://raw.githubusercontent.com/ohisee123/shadowing-feed/main/cover.jpg</url><title>Ethan's Recsys Learning</title><link>https://github.com/ohisee123/shadowing-feed</link></image>
   <item>
     <title>开场 · Opening (Tell me about yourself / Why / Why move)</title>
     <description>开场必问三题:自我介绍、Why(YouTube 版)、Why make a move。面试官提问(onyx)→ 2 秒留白 → 英文范答(nova)。gpt-4o-mini-tts 自然语音。</description>
     <pubDate>Thu, 09 Jul 2026 06:21:24 GMT</pubDate>
-    <enclosure url="https://raw.githubusercontent.com/podcastethan/personal-feed/main/bq-01-opening.mp3" length="2225969" type="audio/mpeg"/>
+    <enclosure url="https://raw.githubusercontent.com/ohisee123/shadowing-feed/main/bq-01-opening.mp3" length="2225969" type="audio/mpeg"/>
     <guid isPermaLink="false">bq-ep-01-opening</guid>
     <itunes:duration>3:05</itunes:duration>
     <itunes:author>Ethan Bai (gpt-4o-mini-tts · onyx Q + nova A)</itunes:author>
@@ -23,7 +23,7 @@
     <title>Netflix's Big Bet: One Model to Rule Recommendations</title>
     <description>Yesu Feng (Netflix) on building a foundation model for personalization. AI Engineer World's Fair 2025. ~22 min. [Audio volume +30%]</description>
     <pubDate>Fri, 22 May 2026 00:35:00 -0700</pubDate>
-    <enclosure url="https://raw.githubusercontent.com/podcastethan/personal-feed/main/yesu-feng-netflix.mp3" length="32353055" type="audio/mpeg"/>
+    <enclosure url="https://raw.githubusercontent.com/ohisee123/shadowing-feed/main/yesu-feng-netflix.mp3" length="32353055" type="audio/mpeg"/>
     <guid isPermaLink="false">yesu-feng-netflix-001</guid>
     <itunes:duration>22:28</itunes:duration>
     <itunes:author>Yesu Feng, Netflix</itunes:author>
