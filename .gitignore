@@ -5,3 +5,5 @@ generate_bq_v2.sh
 generate_intro_why.sh
 __pycache__/
 *.pyc
+generate_bq_s157.sh
+bq_s157_manifest.json

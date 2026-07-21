@@ -3,18 +3,28 @@
 <channel>
   <title>Ethan's Recsys Learning</title>
   <description>Personal feed for English shadowing - recsys MLE talks + BQ Q&amp;A by topic</description>
-  <link>https://github.com/podcastethan/personal-feed</link>
+  <link>https://github.com/ohisee123/shadowing-feed</link>
   <language>en-us</language>
   <itunes:author>Ethan Bai</itunes:author>
   <itunes:explicit>false</itunes:explicit>
   <itunes:category text="Technology"/>
   <itunes:image href="https://raw.githubusercontent.com/ohisee123/shadowing-feed/main/cover.jpg"/>
-  <image><url>https://raw.githubusercontent.com/ohisee123/shadowing-feed/main/cover.jpg</url><title>Ethan's Recsys Learning</title><link>https://github.com/podcastethan/personal-feed</link></image>
+  <image><url>https://raw.githubusercontent.com/ohisee123/shadowing-feed/main/cover.jpg</url><title>Ethan's Recsys Learning</title><link>https://github.com/ohisee123/shadowing-feed</link></image>
+  <item>
+    <title>已背诵 · S1+S5+S7 连续问答 (16 questions)</title>
+    <description>已背完的三个故事合集:S1 意图分层 (Q1-6) / S5 召回瓶颈 (Q7-10) / S7 时差救火 (Q11-16)。每个故事先连读全部能答的问题(onyx),2 秒留白,nova 讲最新定稿全文。基于 2026-07-20 master。</description>
+    <pubDate>Tue, 21 Jul 2026 01:32:46 GMT</pubDate>
+    <enclosure url="https://raw.githubusercontent.com/ohisee123/shadowing-feed/main/bq-s1-s5-s7-shadowing.mp3" length="6848536" type="audio/mpeg"/>
+    <itunes:image href="https://raw.githubusercontent.com/ohisee123/shadowing-feed/main/covers/s1-s5-s7-shadowing.jpg"/>
+    <guid isPermaLink="false">bq-ep-14-s1-s5-s7</guid>
+    <itunes:duration>9:26</itunes:duration>
+    <itunes:author>Ethan Bai (gpt-4o-mini-tts · onyx Q + nova A)</itunes:author>
+  </item>
   <item>
     <title>开场 · Opening (Tell me about yourself / Why / Why move)</title>
     <description>开场必问三题:自我介绍、Why(YouTube 版)、Why make a move。面试官提问(onyx)→ 2 秒留白 → 英文范答(ash)。gpt-4o-mini-tts 自然语音。</description>
     <pubDate>Thu, 09 Jul 2026 07:56:56 GMT</pubDate>
-    <enclosure url="https://raw.githubusercontent.com/ohisee123/shadowing-feed/main/bq-01-opening.mp3" length="2646212" type="audio/mpeg"/>
+    <enclosure url="https://raw.githubusercontent.com/ohisee123/shadowing-feed/main/bq-01-opening.mp3" length="2646342" type="audio/mpeg"/>
     <itunes:image href="https://raw.githubusercontent.com/ohisee123/shadowing-feed/main/covers/opening.jpg"/>
     <guid isPermaLink="false">bq-ep-01-opening</guid>
     <itunes:duration>3:31</itunes:duration>
@@ -24,7 +34,7 @@
     <title>LP1 · Customer Obsession</title>
     <description>Customer Obsession: 给客户建议 / 想要X其实需要Y / above &amp; beyond。onyx 提问→2s→ash 范答。</description>
     <pubDate>Thu, 09 Jul 2026 07:55:56 GMT</pubDate>
-    <enclosure url="https://raw.githubusercontent.com/ohisee123/shadowing-feed/main/bq-02-customer-obsession.mp3" length="6469973" type="audio/mpeg"/>
+    <enclosure url="https://raw.githubusercontent.com/ohisee123/shadowing-feed/main/bq-02-customer-obsession.mp3" length="6470058" type="audio/mpeg"/>
     <itunes:image href="https://raw.githubusercontent.com/ohisee123/shadowing-feed/main/covers/customer-obsession.jpg"/>
     <guid isPermaLink="false">bq-ep-02-customer-obsession</guid>
     <itunes:duration>8:47</itunes:duration>
@@ -34,7 +44,7 @@
     <title>LP2 · Are Right, A Lot</title>
     <description>Are Right A Lot: bad decision / 分歧你对 / 分歧你错 / incomplete data(成+败)。</description>
     <pubDate>Thu, 09 Jul 2026 07:54:56 GMT</pubDate>
-    <enclosure url="https://raw.githubusercontent.com/ohisee123/shadowing-feed/main/bq-03-are-right.mp3" length="12440697" type="audio/mpeg"/>
+    <enclosure url="https://raw.githubusercontent.com/ohisee123/shadowing-feed/main/bq-03-are-right.mp3" length="12440780" type="audio/mpeg"/>
     <itunes:image href="https://raw.githubusercontent.com/ohisee123/shadowing-feed/main/covers/are-right.jpg"/>
     <guid isPermaLink="false">bq-ep-03-are-right</guid>
     <itunes:duration>17:06</itunes:duration>
@@ -44,7 +54,7 @@
     <title>LP3 · Ownership</title>
     <description>Ownership(L6 核心): 超出 scope / push back / 交接 / 带人。</description>
     <pubDate>Thu, 09 Jul 2026 07:53:56 GMT</pubDate>
-    <enclosure url="https://raw.githubusercontent.com/ohisee123/shadowing-feed/main/bq-04-ownership.mp3" length="9735213" type="audio/mpeg"/>
+    <enclosure url="https://raw.githubusercontent.com/ohisee123/shadowing-feed/main/bq-04-ownership.mp3" length="9735289" type="audio/mpeg"/>
     <itunes:image href="https://raw.githubusercontent.com/ohisee123/shadowing-feed/main/covers/ownership.jpg"/>
     <guid isPermaLink="false">bq-ep-04-ownership</guid>
     <itunes:duration>13:21</itunes:duration>
@@ -54,7 +64,7 @@
     <title>LP4 · Bias for Action</title>
     <description>Bias for Action: calculated risk / 要不到人怎么办 / 不等指令快速行动。</description>
     <pubDate>Thu, 09 Jul 2026 07:52:56 GMT</pubDate>
-    <enclosure url="https://raw.githubusercontent.com/ohisee123/shadowing-feed/main/bq-05-bias-for-action.mp3" length="8140300" type="audio/mpeg"/>
+    <enclosure url="https://raw.githubusercontent.com/ohisee123/shadowing-feed/main/bq-05-bias-for-action.mp3" length="8140382" type="audio/mpeg"/>
     <itunes:image href="https://raw.githubusercontent.com/ohisee123/shadowing-feed/main/covers/bias-for-action.jpg"/>
     <guid isPermaLink="false">bq-ep-05-bias-for-action</guid>
     <itunes:duration>11:08</itunes:duration>
@@ -64,7 +74,7 @@
     <title>LP5 · Think Big</title>
     <description>Think Big: proudest achievement / 把模糊大问题做成大成果(S8 LRM scaling)。</description>
     <pubDate>Thu, 09 Jul 2026 07:51:56 GMT</pubDate>
-    <enclosure url="https://raw.githubusercontent.com/ohisee123/shadowing-feed/main/bq-06-think-big.mp3" length="3005639" type="audio/mpeg"/>
+    <enclosure url="https://raw.githubusercontent.com/ohisee123/shadowing-feed/main/bq-06-think-big.mp3" length="3005715" type="audio/mpeg"/>
     <itunes:image href="https://raw.githubusercontent.com/ohisee123/shadowing-feed/main/covers/think-big.jpg"/>
     <guid isPermaLink="false">bq-ep-06-think-big</guid>
     <itunes:duration>4:01</itunes:duration>
@@ -74,7 +84,7 @@
     <title>LP6 · Invent &amp; Simplify</title>
     <description>Invent &amp; Simplify: 最创新的东西 / 化繁为简。</description>
     <pubDate>Thu, 09 Jul 2026 07:50:56 GMT</pubDate>
-    <enclosure url="https://raw.githubusercontent.com/ohisee123/shadowing-feed/main/bq-07-invent-simplify.mp3" length="6456969" type="audio/mpeg"/>
+    <enclosure url="https://raw.githubusercontent.com/ohisee123/shadowing-feed/main/bq-07-invent-simplify.mp3" length="6457055" type="audio/mpeg"/>
     <itunes:image href="https://raw.githubusercontent.com/ohisee123/shadowing-feed/main/covers/invent-simplify.jpg"/>
     <guid isPermaLink="false">bq-ep-07-invent-simplify</guid>
     <itunes:duration>8:48</itunes:duration>
@@ -84,7 +94,7 @@
     <title>LP7 · Learn &amp; Be Curious</title>
     <description>Learn &amp; Be Curious: 学到新东西并落地(S8 调研→落地开场)。</description>
     <pubDate>Thu, 09 Jul 2026 07:49:56 GMT</pubDate>
-    <enclosure url="https://raw.githubusercontent.com/ohisee123/shadowing-feed/main/bq-08-learn-curious.mp3" length="3388346" type="audio/mpeg"/>
+    <enclosure url="https://raw.githubusercontent.com/ohisee123/shadowing-feed/main/bq-08-learn-curious.mp3" length="3388433" type="audio/mpeg"/>
     <itunes:image href="https://raw.githubusercontent.com/ohisee123/shadowing-feed/main/covers/learn-curious.jpg"/>
     <guid isPermaLink="false">bq-ep-08-learn-curious</guid>
     <itunes:duration>4:31</itunes:duration>
@@ -94,7 +104,7 @@
     <title>LP8 · Dive Deep</title>
     <description>Dive Deep: 用数据做决策 / 最难的系统排查。</description>
     <pubDate>Thu, 09 Jul 2026 07:48:56 GMT</pubDate>
-    <enclosure url="https://raw.githubusercontent.com/ohisee123/shadowing-feed/main/bq-09-dive-deep.mp3" length="5151982" type="audio/mpeg"/>
+    <enclosure url="https://raw.githubusercontent.com/ohisee123/shadowing-feed/main/bq-09-dive-deep.mp3" length="5152058" type="audio/mpeg"/>
     <itunes:image href="https://raw.githubusercontent.com/ohisee123/shadowing-feed/main/covers/dive-deep.jpg"/>
     <guid isPermaLink="false">bq-ep-09-dive-deep</guid>
     <itunes:duration>7:01</itunes:duration>
@@ -104,7 +114,7 @@
     <title>LP9 · Insist on Highest Standards</title>
     <description>Highest Standards: 没达到目标 / 改进已经很好的东西。</description>
     <pubDate>Thu, 09 Jul 2026 07:47:56 GMT</pubDate>
-    <enclosure url="https://raw.githubusercontent.com/ohisee123/shadowing-feed/main/bq-10-highest-standards.mp3" length="4596631" type="audio/mpeg"/>
+    <enclosure url="https://raw.githubusercontent.com/ohisee123/shadowing-feed/main/bq-10-highest-standards.mp3" length="4596715" type="audio/mpeg"/>
     <itunes:image href="https://raw.githubusercontent.com/ohisee123/shadowing-feed/main/covers/highest-standards.jpg"/>
     <guid isPermaLink="false">bq-ep-10-highest-standards</guid>
     <itunes:duration>6:12</itunes:duration>
@@ -114,7 +124,7 @@
     <title>LP10 · Earn Trust</title>
     <description>Earn Trust(最大块): 重建信任 / 团队采纳建议 / 难搞同事 / 收到反馈 / 被说服 / 说服 skeptic。</description>
     <pubDate>Thu, 09 Jul 2026 07:46:56 GMT</pubDate>
-    <enclosure url="https://raw.githubusercontent.com/ohisee123/shadowing-feed/main/bq-11-earn-trust.mp3" length="11593014" type="audio/mpeg"/>
+    <enclosure url="https://raw.githubusercontent.com/ohisee123/shadowing-feed/main/bq-11-earn-trust.mp3" length="11593092" type="audio/mpeg"/>
     <itunes:image href="https://raw.githubusercontent.com/ohisee123/shadowing-feed/main/covers/earn-trust.jpg"/>
     <guid isPermaLink="false">bq-ep-11-earn-trust</guid>
     <itunes:duration>15:57</itunes:duration>
@@ -124,7 +134,7 @@
     <title>LP11 · Deliver Results</title>
     <description>Deliver Results: 超额交付 / 没达成的承诺。</description>
     <pubDate>Thu, 09 Jul 2026 07:45:56 GMT</pubDate>
-    <enclosure url="https://raw.githubusercontent.com/ohisee123/shadowing-feed/main/bq-12-deliver-results.mp3" length="5071154" type="audio/mpeg"/>
+    <enclosure url="https://raw.githubusercontent.com/ohisee123/shadowing-feed/main/bq-12-deliver-results.mp3" length="5071237" type="audio/mpeg"/>
     <itunes:image href="https://raw.githubusercontent.com/ohisee123/shadowing-feed/main/covers/deliver-results.jpg"/>
     <guid isPermaLink="false">bq-ep-12-deliver-results</guid>
     <itunes:duration>6:53</itunes:duration>
@@ -134,7 +144,7 @@
     <title>👑 L6 Leadership</title>
     <description>L6 领导力: underperformer / 硬反馈 / 两工程师分歧 / 砍项目 / 带团队过不确定 / 促成长 / scale yourself。</description>
     <pubDate>Thu, 09 Jul 2026 07:44:56 GMT</pubDate>
-    <enclosure url="https://raw.githubusercontent.com/ohisee123/shadowing-feed/main/bq-13-l6-leadership.mp3" length="11236509" type="audio/mpeg"/>
+    <enclosure url="https://raw.githubusercontent.com/ohisee123/shadowing-feed/main/bq-13-l6-leadership.mp3" length="11236596" type="audio/mpeg"/>
     <itunes:image href="https://raw.githubusercontent.com/ohisee123/shadowing-feed/main/covers/l6-leadership.jpg"/>
     <guid isPermaLink="false">bq-ep-13-l6-leadership</guid>
     <itunes:duration>15:26</itunes:duration>
